@@ -22,3 +22,10 @@ a piece of art and less like a text book.
 What I mean by this is contained in the saying "art is never finished, only left". 
 
 The PierceHacker attempts to do the same with a student body. This can be helpful but only if enough people work on it.
+
+**Reflection**
+
+My paragraphs above probably already contain some sense of what I've learned but to specify I'll go into what I've learned. 
+Technical writing is the use of specific langauge and instructions to teach or allow other to follow along with work you have done or have knowledge of. 
+
+There are a number of ideas on what constitutes good technical writing. Peer review only vs using editors. Also while it is fairly time consuming because you need to think about how to word things so that no one is lost on what you're explaining, I think I will be pretty good at this. 
