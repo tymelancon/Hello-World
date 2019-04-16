@@ -1,1 +1,1 @@
-->**Lego Instructions**<-
+<p align="center">
