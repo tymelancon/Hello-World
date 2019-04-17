@@ -67,4 +67,33 @@ Attach P.12 to the left and right space left on the top of P.11 with the wide bo
 
 **Step Five**
 
+Place the two P.9 parts on the edges of P.12 and P.3. These will act as reinforcement against weight. 
 
+**Step Six**
+
+Place P.13 on top of P.3 and P.8 leaving a space to the left and right. At the edge of P.12 attach P.14 (x2).
+
+**This completes the "Shamisen Stand" part of the build. Next we will build the Shamisen itself.**
+
+![](https://s3.amazonaws.com/peoplepng/wp-content/uploads/2018/07/16082000/Black-Banner-Transparent-1024x576.png)
+
+
+**Step Seven**
+
+Begin by attaching P.2 to the most narrow row of P.1. This will leave the two wider rows of P.2 open. 
+
+**Step Eight**
+
+On the under side of P.2 attach P.5 three rows deep. 
+
+**Step Nine**
+
+Attach P.4 vertically three rows deep on the top so that there is space for the other P.4 next to it. 
+
+**Step Ten**
+
+Starting at the top of P.4's side attach P.6 one space deep leaving one space inbetween each(x3). On the opposite side, leave one space empty and place P.7 one deep and leaving one space inbetween each (x2). 
+
+**Step Eleven**
+
+Place P.15 on top of P.2 towards the bottom one space from the edge, leaving one space to the left and right.
