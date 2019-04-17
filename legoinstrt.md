@@ -47,7 +47,7 @@ We will be putting together a Japanese Shamisen with stand via legos.
 <b>P.15 x1</b>
 <img src="https://i.imgur.com/slFrEro.jpg" width="320" height="180" />
 
-![](https://s3.amazonaws.com/peoplepng/wp-content/uploads/2018/07/16082000/Black-Banner-Transparent-1024x576.png)!
+![](https://s3.amazonaws.com/peoplepng/wp-content/uploads/2018/07/16082000/Black-Banner-Transparent-1024x576.png!
 
 **Step One**
 
