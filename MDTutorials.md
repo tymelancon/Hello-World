@@ -1,6 +1,6 @@
 # A Hitchiker's guide to guides
 
-Learning markdown is an exersize as much in learning what you _**can**_ do, as much as what you _**cannot**_ do. 
+Learning markdown is an exercise as much in learning what you _**can**_ do, as much as what you _**cannot**_ do. 
 In this assignment we are to look at five different guides or tutorials on markdown and how to use the different functions. 
 
 The guides I will pull from are 
