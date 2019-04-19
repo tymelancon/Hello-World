@@ -83,3 +83,5 @@ If I were to rank things in importance or ease of use from these guides it would
 > Clear instructions that don't assume knowledge in the reader on a coding level
 
 > Knowing your audience. So for an extremely technical question, give technical answers and vice versa. 
+
+Also I just wanted an excuse to use the ">" to finish this off. 
