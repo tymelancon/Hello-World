@@ -48,3 +48,20 @@ Or, in pure Markdown, but losing the image sizing and border:
 ```
 ## Guide to Markdown
 
+At this point I had a decent grasp on how markdown functioned but I was a lacking in context. Why did people use this? Where did it come from? Guide to markdown goes into where it came from and who uses it as well as why. So while that doesn't teach me how to use it, it does give me the framework as to what it could be used for in a real world scenario. 
+
+Also I enjoyed the formatting. 
+
+![](https://i.imgur.com/63QWXJw.png)
+
+## Daring Fireball
+
+So after learning a bit more about the history of markdown and how it relates to HTML and CSS I found where it all started. Daring Fireball. These guys have the most indepth guide I've seen. Very to the point. Gets the message across in a business like manner. I enjoyed see what the guys that wrote the language had to say about it. 
+
+It also gave an bit of insight into what github has added to the "git" functions from linux. 
+
+## My Brother
+
+So this is a bit different but my biggest resource is was my brother. He is a full stack dev at a start up and is proficient in all these languages/formatting. So, I spent most of last night with him going over what I could do and couldn't do with markdown. Where HTML could come in, and what CSS was and how it interacts with HTML. Over dinner he explained markdown's place in the community and how essential github is to collaborative coding. Coding in itself is a collaborative process that is ever evolving. Ever changing. Honestly seeing my commands come to life on the preview was ridiculously satisfying and I think this might have awakened a love for coding in me. 
+
+If nothing else, I know more now than I did before. 
