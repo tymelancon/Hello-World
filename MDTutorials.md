@@ -62,6 +62,24 @@ It also gave an bit of insight into what github has added to the "git" functions
 
 ## My Brother
 
-So this is a bit different but my biggest resource is was my brother. He is a full stack dev at a start up and is proficient in all these languages/formatting. So, I spent most of last night with him going over what I could do and couldn't do with markdown. Where HTML could come in, and what CSS was and how it interacts with HTML. Over dinner he explained markdown's place in the community and how essential github is to collaborative coding. Coding in itself is a collaborative process that is ever evolving. Ever changing. Honestly seeing my commands come to life on the preview was ridiculously satisfying and I think this might have awakened a love for coding in me. 
+So this is a bit different but my biggest resource is was my brother. 
+
+Reasons I did this?
+
+He is a full stack dev at a start up and is proficient in all these languages/formatting. So, I spent most of last night with him going over what I could do and couldn't do with markdown. Where HTML could come in, and what CSS was and how it interacts with HTML. 
+
+Over dinner he explained markdown's place in the community and how essential github is to collaborative coding. Coding in itself is a collaborative process that is ever evolving. Ever changing. Honestly seeing my commands come to life on the preview was ridiculously satisfying and I think this might have awakened a love for coding in me. 
 
 If nothing else, I know more now than I did before. 
+
+## Conclusions 
+
+If I were to rank things in importance or ease of use from these guides it would be something like,
+
+> Visual representation of what is being asked
+
+> Space between different instruction sets so that you know you have moved to a different topic
+
+> Clear instructions that don't assume knowledge in the reader on a coding level
+
+> Knowing your audience. So for an extremely technical question, give technical answers and vice versa. 
