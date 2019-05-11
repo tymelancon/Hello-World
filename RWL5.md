@@ -17,3 +17,5 @@ So it's not a purely objective document. There is definately room for opinion an
 I was looking at a few other drafts and I also realized that I had given basically no direct examples with my data. So while I had this
 overview of how the project should work, I never gave any data. The whole point of the survey and I somehow missed that? So I added a 
 section where I go into my personal ideas for how to guides and what the data is saying. 
+
+One thing I've learned is how frustrating the format differences that occur when switching between word and google docs are. Ugh.
