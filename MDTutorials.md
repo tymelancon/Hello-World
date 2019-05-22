@@ -62,7 +62,7 @@ It also gave an bit of insight into what github has added to the "git" functions
 
 ## My Brother
 
-So this is a bit different but my biggest resource is was my brother. 
+So this is a bit different but my biggest resource is my brother. 
 
 Reasons I did this?
 
